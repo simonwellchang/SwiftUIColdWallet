@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>NSBluetoothAlwaysUsageDescription</key>
+    <string>此應用程式需要使用藍牙來連接冷錢包設備。</string>
+    <key>NSBluetoothPeripheralUsageDescription</key>
+    <string>此應用程式需要使用藍牙來與冷錢包通訊。</string>
+</dict>
+</plist>
